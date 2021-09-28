@@ -6,3 +6,7 @@ As the Risk Management Associate and my knowledge on machine learning and neural
 As a venture capital firm, this information will allow the company to make informative and strategic decisions when prospecting for future companies to invest in.
 
 ## Technology & Libraries
+* Tensorflow
+* SkLearn
+* Pandas
+* Jupyterlab
